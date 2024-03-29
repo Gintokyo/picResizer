@@ -4,6 +4,8 @@
 from PIL import Image
 import os
 
+# test changes
+
 enterIsPressed = input(
     "Please copy the picture you want to resize in the 'Picture' folder.\nIf done, press ENTER.")
 # Used to track the absolute path of the picture + the folder you inserted the image.
